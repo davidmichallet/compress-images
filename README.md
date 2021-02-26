@@ -1,4 +1,3 @@
 # compress-images
 
-![GitHub Logo](/img/2019-08-GN2-1-MCD.svg
-Format: ![Alt Text](url)
+![GitHub Logo](/img/2019-08-GN2-1-MCD.svg)
